@@ -164,12 +164,12 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "🥳") || (event.body.toLowerCase() == "🥳🥳")) {
-     return api.sendMessage("🥀🎂 𝐎𝐨𝐎𝐨 𝐓𝐑𝐚 𝐇𝐚𝐏𝐏𝐘 𝐁𝐢𝐑𝐓𝐇𝐃𝐚𝐘 🔗🕊️", threadID);
+     return api.sendMessage("😻🌿𝐎𝐨𝐎𝐨 𝐓𝐑𝐚 𝐇𝐚𝐏𝐏𝐘 𝐁𝐢𝐑𝐓𝐇𝐃𝐚𝐘🌿😻", threadID);
    };
 
 
    if ((event.body.toLowerCase() == "🙃") || (event.body.toLowerCase() == "🙃🙃")) {
-     return api.sendMessage("🥀🥀 𝐇𝐚𝐲𝐞 𝐑𝐀𝐁𝐁𝐀 𝐁𝐚𝐁𝐔 𝐢𝐓𝐍𝐀 𝐏𝐘𝐚𝐑 🕊️🕊️", threadID);
+     return api.sendMessage("😻🌿𝐇𝐚𝐲𝐞 𝐑𝐀𝐁𝐁𝐀 𝐢𝐓𝐍𝐀 𝐏𝐘𝐚𝐑🦋😻", threadID);
    };
 
    if ((event.body.toLowerCase() == "🙂") || (event.body.toLowerCase() == "🙂🙂")) {
@@ -177,23 +177,23 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "🥲") || (event.body.toLowerCase() == "🥲🥲")) {
-     return api.sendMessage("🥀🥀 𝐀𝐞𝐒𝐞 𝐌𝐮𝐇 𝐁𝐚𝐍𝐚𝐊𝐚𝐑 𝐌𝐚𝐓 𝐑𝐨 𝐁𝐚𝐁𝐔 😐🕊️", threadID);
+     return api.sendMessage("😻🌿𝐀𝐞𝐒𝐞 𝐌𝐮𝐇 𝐁𝐚𝐍𝐚𝐊𝐚𝐑 𝐌𝐚𝐓 𝐑𝐨 𝐁𝐚𝐁𝐔🤙😼", threadID);
    };
 
    if ((event.body.toLowerCase() == "😊") || (event.body.toLowerCase() == "😊😊")) {
-     return api.sendMessage("🥀🥀𝐒𝐇𝐮𝐤𝐑 𝐇𝐞 𝐒𝐦𝐢𝐋𝐞 𝐓𝐨 𝐊𝐢 𝐁𝐚𝐁𝐔🤘🕊️", threadID);
+     return api.sendMessage("😻🌿𝐒𝐇𝐮𝐤𝐑 𝐇𝐞 𝐒𝐦𝐢𝐋𝐞 𝐓𝐨 𝐊𝐢 𝐁𝐚𝐁𝐔🤘🧡", threadID);
    };
 
    if ((event.body.toLowerCase() == "☺️") || (event.body.toLowerCase() == "☺️☺️")) {
-     return api.sendMessage("🥀 𝐘𝐞 𝐒𝐦𝐢𝐋𝐞 𝐍𝐚 𝐃𝐨 𝐍𝐚 🍃🕊️", threadID);
+     return api.sendMessage("😻🌿𝐘𝐞 𝐒𝐦𝐢𝐋𝐞 𝐍𝐚 𝐃𝐨 𝐍𝐚☺️🕊️", threadID);
    };
 
    if ((event.body.toLowerCase() == "😌") || (event.body.toLowerCase() == "😌😌")) {
-     return api.sendMessage("🥀 𝐇𝐚𝐘𝐞 𝐌𝐚𝐒𝐨𝐨𝐌 𝐌𝐞𝐑𝐢 𝐉𝟒𝟒𝐍🤘🕊️", threadID);
+     return api.sendMessage("😻🌿𝐇𝐚𝐘𝐞 𝐌𝐚𝐒𝐨𝐨𝐌 𝐌𝐞𝐑𝐢 𝐉aa𝐍🤘🕊️", threadID);
    };
 
    if ((event.body.toLowerCase() == "😏") || (event.body.toLowerCase() == "😏😏")) {
-     return api.sendMessage("🥀 𝐂𝐇𝐚𝐋 𝐇𝐚𝐓𝐓 𝐌𝐞𝐑𝐞 𝐒𝐚𝐌𝐧𝐄 𝐌𝐚𝐓 𝐢𝐓𝐑𝐚 𝐘𝐞 𝐓𝐞𝐑𝐚 𝐌𝐮𝐇 𝐋𝐞𝐊𝐑 🕊️", threadID);
+     return api.sendMessage("😻🌿𝐂𝐇𝐚𝐋 𝐇𝐚𝐓𝐓 𝐌𝐞𝐑𝐞 𝐒𝐚𝐌𝐧𝐄 𝐌𝐚𝐓 𝐢𝐓𝐑𝐚 𝐘𝐞 𝐓𝐞𝐑𝐚 𝐌𝐮𝐇 𝐋𝐞𝐊𝐑🤙😻", threadID);
    };
 
    if ((event.body.toLowerCase() == "😴") || (event.body.toLowerCase() == "😴😴")) {
@@ -209,7 +209,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "😋") || (event.body.toLowerCase() == "😋😋")) {
-     return api.sendMessage("🥀👄 𝐌𝐞𝐑𝐢 𝐊𝐢𝐒𝐒 𝐘𝐚𝐌𝐌𝐘 𝐇𝐞 𝐍𝐚 😂😂", threadID);
+     return api.sendMessage("😻🌿𝐌𝐞𝐑𝐢 𝐊𝐢𝐒𝐒 𝐘𝐚𝐌𝐌𝐘 𝐇𝐞 𝐍𝐚😂😂", threadID);
    };
 
    if ((event.body.toLowerCase() == "😛") || (event.body.toLowerCase() == "😛😛")) {
@@ -398,7 +398,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
       if ((event.body.toLowerCase() == "🥵") || (event.body.toLowerCase() == "🥵🥵")) {
-     return api.sendMessage("𝐍𝐚𝐇𝟗𝟗 𝐋𝟗𝟗 😂🥶", threadID);
+     return api.sendMessage("𝐍𝐚𝐇aa 𝐋EE 😂🥶", threadID);
    };
 
       if ((event.body.toLowerCase() == "🤢") || (event.body.toLowerCase() == "🤮")) {
@@ -469,8 +469,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("Ari mori maiyya e ka dekh liyo👻💀", threadID);
    };
 
-      if ((event.body.toLowerCase() == "🖕") || (event.body.toLowerCase() == "🖕🖕")) {
-     return api.sendMessage("Bund Me LeLe ApNi Bhens Chor 😂😂😂", threadID);
+      if ((event.body.toLowerCase() == "👍") || (event.body.toLowerCase() == "👌")) {
+     return api.sendMessage("🌊⚡••Aɽɛɧ Aɗɪ Ɱɑƞɑⱱ ʑɵɵ ꌗɛ Ɓɒɧɒɽ Ƙɑɪʂɛ ••😹💨Agɣɑ Ƭu→Fɪɽʂɛ ʑɵɵ Ɱ Jɒ Ɓɑɧɒɽ Ƙɣɑ Ƙɒɽ Ɽɧɑ Ɦɑɪ↗↘••🏔️🍁", threadID);
    };
 
       if ((event.body.toLowerCase() == "💉") || (event.body.toLowerCase() == "💊")) {
@@ -668,18 +668,35 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
    mess = "{name}"
 
-  if (event.body.indexOf("Bot") >= 0 || (event.body.indexOf("bot") >= 0)) {
-    var msg = {
-      body: `⫷╍╍╍╍╍╍💖╍╍╍╍╍╍⫸
+  if (event.body.includes("Bot") == 1 ||
+     (event.body.includes("bot") == 1 ||
+     (event.body.includes("BOT") == 1 ||
+     (event.body.includes("BABU") == 1 ||
+     (event.body.includes("Babu") == 1 ||
+     (event.body.includes("babu") == 1 ||
+     (event.body.includes("boot") == 1 ||
+     (event.body.includes("Oye") == 1 ||
+     (event.body.includes("oye") == 1 ))))))))) {
+      var msg = {
+        body: `${rand}`
+      }
+  var msg = {
+    body: `⫷╍╍╍╍╍╍💖╍╍╍╍╍╍⫸
       ❤️🌿🍒${name}🌿🥀💙, \n\n
           ${rand} 🤣🍁❤
 
+𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ😻♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪,
 
-           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐒𝐀𝐌𝐄𝐄𝐑⊱• ════ ❦🍀🍒`
-    }
-    return api.sendMessage(msg, threadID, messageID);
-  };
+
+                                        
+
+ *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐒𝐀𝐌𝐄𝐄𝐑⊱• ════ ❦🍀🍒 ❥||ㅎ
+
+𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ😻♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪`
+  }
+  return api.sendMessage(msg, threadID, messageID);
+};
 
 }
 
-module.exports.run = function({ api, event, client, __GLOBAL }) { }
+module.exports.run = function({ api, event, client, __GLOBAL }) { }
